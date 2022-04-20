@@ -1,0 +1,232 @@
+body{
+    
+    background-color: #E3E3E3;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    
+}
+
+#main{
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.fej{
+    display: flex;
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+.pic{
+    height: auto;
+    width: 20%;
+}
+
+.logo{
+    border-radius: 63%;
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+.cim{
+    color: rgb(135, 115, 89);
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    font-size: 50px;
+}
+
+
+.bajnoksagok{
+    width: 80%;
+    height: 50%;
+    display: flex;
+
+}
+.gombok{
+    width: 25%;
+    height: 20%;
+    
+}
+
+.sajt{
+    display: flex;
+    width: 90%;
+    height: 70%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.otpsajt{
+    display: flex;
+    width: 100%;
+    height: 70%;
+    align-items: center;
+    justify-content: center;
+}
+
+.alma, .körte{
+    width: 100%;
+    height: 70%;
+    display: flex; 
+}
+
+.csik{
+    background: rgb(177, 177, 177);
+    width: 100%;
+    height: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kocka{
+    background: rgb(8, 51, 150);
+    color: white;
+    width: 12%;
+    font-size: 15px;
+    text-align: center; 
+}
+.kockacs{
+    width: 26%;
+}
+
+.tabella1, .tabella2,.tabella3, .tabella4{
+    width: 100%;
+    height: 100%;
+    border: solid black 1px;
+}
+
+.tabella{
+    display: flex;
+    flex-direction: column;
+
+    
+}
+
+.sornevek{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(8, 51, 150);
+    
+}
+.bajnok{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.adat{
+    border: solid rgb(7, 7, 7) 1px;
+    width: 12%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color:rgb(27, 40, 32);
+    font-size: 15px;
+}
+.adatteam{
+    width: 26%;  
+}
+
+.gombok{
+    font-size: 20px;
+    text-align: center;
+    background: rgb(20, 132, 27);
+    color: azure; 
+    border: solid 1px blacknp;
+    border-radius: 50%;
+}
+
+.box{
+    background: rgb(20, 132, 27);
+}
+
+.csapat{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    flex-direction: column; 
+    
+}
+.csapatok{
+    width: 50%;
+    height: 30%;
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    justify-content: center;
+}
+.mcsik{
+    background: rgb(177, 177, 177);
+    width: 30%;
+    height: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+}
+.macsik{
+    background: rgb(177, 177, 177);
+    width: 80%;
+    height: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 21px;
+}
+.sornevek2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(8, 51, 150);
+    width: 30%;
+}
+.kocka2{
+    height: 5%;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    color: azure; 
+}
+.jatekadat{
+        border: solid rgb(7, 7, 7) 1px;
+        width: 11%;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        color:rgb(5, 13, 8);
+        font-size: 15px;
+}
+.adatn{
+   width: 23% ; 
+}
+
+.kockaj{
+        background: rgb(8, 51, 150);
+        color: white;
+        width: 10%;
+        font-size: 15px;
+        text-align: center; 
+        
+}
+.kockan{
+    width: 20%;
+    text-align: center; 
+
+}
+.csapatgombok{
+    width: 30%;
+    background: rgb(177, 177, 177);
+    font-size: 15px;
+}
